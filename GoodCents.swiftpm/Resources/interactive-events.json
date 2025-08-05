@@ -1,0 +1,446 @@
+[
+    {
+        "id": 1,
+        "wealthClass": ["lower"],
+        "events": [
+            {
+                "id": 1,
+                "name": "Eat Out Tonight",
+                "description": "Your friends have invited you to eat out tonight. You're super excited to go but you're not sure if you have enough money to go. Do you eat out or save your money",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Eat Out",
+                        "type": "purchase",
+                        "amount": 80.00,
+                        "item": {
+                            "id": 2,
+                            "name": "Dinner",
+                            "icon": "fork.knife",
+                            "price": 80.00,
+                            "value": 80.00,
+                            "isSellable": false
+                        },
+                        "outcome": "You ate out with your friends. You had a great time but you now have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases. Plus you can always eat out another time"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Repair your Refrigerator",
+                "description": "Your refrigerator has started leaking out cool air and you need to get it repaired. Do you repair it or just leave it",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Repair Refrigerator",
+                        "type": "purchase",
+                        "amount": 100.00,
+                        "item": {
+                            "id": 4,
+                            "name": "Refrigerator Repair",
+                            "icon": "wrench",
+                            "price": 100.00,
+                            "value": 100.00,
+                            "isSellable": false
+                        },
+                        "outcome": "You repaired your refrigerator. You now have a working refrigerator but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Leave it",
+                        "type": "dismiss",
+                        "outcome": "You chose to leave your refrigerator. You saved money but now you have a broken refrigerator"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Purchase a new Microwave",
+                "description": "Your Microwave has stopped working and you need to purchase a new one. Do you purchase a new Microwave or go without one",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase a new Microwave",
+                        "type": "purchase",
+                        "amount": 120.00,
+                        "item": {
+                            "id": 5,
+                            "name": "Microwave",
+                            "icon": "microwave",
+                            "price": 120.00,
+                            "value": 79.20,
+                            "isSellable": false
+                        },
+                        "outcome": "You purchased a new microwave. You now have a new microwave to use but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Go without",
+                        "type": "dismiss",
+                        "outcome": "You chose to go without a new microwave. You saved money but now you don't have a microwave"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Purchase a new TV",
+                "description": "You've been using the same old plasma TV for years and you finally want to upgrade. Should you purchase a new TV or use your money elsewhere?",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase",
+                        "type": "purchase",
+                        "amount": 500.00,
+                        "item": {
+                            "id": 6,
+                            "name": "TV",
+                            "icon": "tv",
+                            "price": 500.00,
+                            "value": 330.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new TV. You now have a new TV to use and entertain yourself with but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "wealthClass": ["middle"],
+        "events": [
+            {
+                "id": 1,
+                "name": "Purchase the new Games Console",
+                "description": "Recently the new GameStation 6 has just released and you're super tempted to purchase it. It's a lot of money and you might need this money for more important purchases. Do you purchase it or save your money",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase the GameStation 6",
+                        "type": "purchase",
+                        "amount": 700.00,
+                        "item": {
+                            "id": 1,
+                            "name": "GameStation 6",
+                            "icon": "gamecontroller",
+                            "price": 700.00,
+                            "value": 490.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased the GameStation 6. You now have a new console to play with but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Purchase a new Phone",
+                "description": "Your Phone is starting to get old and you're thinking about purchasing a new one. Do you purchase a new Phone or save your money",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase a new Phone",
+                        "type": "purchase",
+                        "amount": 600.00,
+                        "item": {
+                            "id": 3,
+                            "name": "Phone",
+                            "icon": "smartphone",
+                            "price": 600.00,
+                            "value": 402.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new phone. You now have a new phone to use but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Purchase a new Oven",
+                "description": "Your Oven has stopped working and you need to purchase a new one. Do you purchase a new Oven or go without one",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase a new Oven",
+                        "type": "purchase",
+                        "amount": 300.00,
+                        "item": {
+                            "id": 5,
+                            "name": "Oven",
+                            "icon": "oven",
+                            "price": 300.00,
+                            "value": 200.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new oven. You now have a new oven to use but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Go without",
+                        "type": "dismiss",
+                        "outcome": "You chose to go without a new oven. You saved money but now you don't have an oven"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Purchase a new Laptop",
+                "description": "You've been using the same old laptop for years and you finally want to upgrade. Should you purchase a new laptop or use your money elsewhere?",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase",
+                        "type": "purchase",
+                        "amount": 900.00,
+                        "item": {
+                            "id": 6,
+                            "name": "Laptop",
+                            "icon": "laptop",
+                            "price": 900.00,
+                            "value": 594.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new laptop. You now have a new laptop to use and work with but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "wealthClass": ["upper"],
+        "events": [
+            {
+                "id": 1,
+                "name": "Purchase a new Car",
+                "description": "Your car is starting to get old and you're thinking about purchasing a new one. Do you purchase a new Car or save your money",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase a new Car",
+                        "type": "purchase",
+                        "amount": 15000.00,
+                        "item": {
+                            "id": 6,
+                            "name": "Purchase Car",
+                            "icon": "car",
+                            "price": 15000.00,
+                            "value": 9900.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new car. You now have a new car to use but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Purchase a Spa ",
+                "description": "You're feeling stressed and you're thinking about purchasing a Spa. Do you purchase a Spa or save your money",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase a Spa",
+                        "type": "purchase",
+                        "amount": 10000.00,
+                        "item": {
+                            "id": 7,
+                            "name": "Spa",
+                            "icon": "figure.water.fitness",
+                            "price": 10000.00,
+                            "value": 6600.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a Spa. You now have a Spa to use but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Purchase a new House",
+                "description": "You've been living in the same house for years and you finally want to upgrade. Should you purchase a new house or use your money elsewhere?",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase",
+                        "type": "purchase",
+                        "amount": 500000.00,
+                        "item": {
+                            "id": 8,
+                            "name": "House",
+                            "icon": "house",
+                            "price": 500000.00,
+                            "value": 330000.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new house. You now have a new house to live in but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Purchase a new Boat",
+                "description": "You've been wanting to purchase a new boat for a while now. Should you purchase a new boat or use your money elsewhere?",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Purchase",
+                        "type": "purchase",
+                        "amount": 20000.00,
+                        "item": {
+                            "id": 9,
+                            "name": "Boat",
+                            "icon": "sailboat",
+                            "price": 20000.00,
+                            "value": 13200.00,
+                            "isSellable": true
+                        },
+                        "outcome": "You purchased a new boat. You now have a new boat to use and have fun with but you have less money to spend on other things"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Save your money",
+                        "type": "dismiss",
+                        "outcome": "You chose the smart option and saved your money. You can now use this money for more important purchases"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "wealthClass": ["lower", "middle", "upper"],
+        "events": [
+            {
+                "id": 1,
+                "name": "You're running low on cash!",
+                "description": "You've been spending a lot of money recently and with bills coming up you're running low on cash. Do you take some money out of your savings or do you risk going into your overdraft",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Transfer to Spending",
+                        "type": "transfer",
+                        "transfer": {
+                            "id": 1,
+                            "sourceAccountIcon": "dollarsign.circle",
+                            "destinationAccountIcon": "creditcard",
+                            "sourceAccount": "Savings",
+                            "destinationAccount": "Spending",
+                            "minAmount": 50,
+                            "maxAmount": null
+                        },
+                        "outcome": "You transferred ${amount} from your Savings account to your Spending account. You now have more money for your bills at the cost of having less money in your savings"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Keep in Savings",
+                        "type": "dismiss",
+                        "outcome": "You risked going into your overdraft. You kept the money in your savings at the cost of potentially not having enough money for your bills"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Time to save some more!",
+                "description": "You have quite a bit of money in your spending account, why not transfer some of it to your savings account",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Transfer to Savings",
+                        "type": "transfer",
+                        "transfer": {
+                            "id": 2,
+                            "sourceAccountIcon": "creditcard",
+                            "destinationAccountIcon": "dollarsign.circle",
+                            "sourceAccount": "Spending",
+                            "destinationAccount": "Savings",
+                            "minAmount": 50,
+                            "maxAmount": null
+                        },
+                        "outcome": "You transferred ${amount} from your Spending account to your Savings account. You now have more money in your savings at the cost of having less money for your spending"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Keep in Spending",
+                        "type": "dismiss",
+                        "outcome": "You kept the money in your spending account. You have more money to spend but you have less money in your savings"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Save for the future",
+                "description": "Currently you have a lot of money in your spending account. Why not transfer some of it to your Retirement Savings account for the future",
+                "actions": [
+                    {
+                        "id": 1,
+                        "title": "Transfer to Retirement Savings",
+                        "type": "transfer",
+                        "transfer": {
+                            "id": 3,
+                            "sourceAccountIcon": "creditcard",
+                            "destinationAccountIcon": "clock",
+                            "sourceAccount": "Spending",
+                            "destinationAccount": "Retirement",
+                            "minAmount": 50,
+                            "maxAmount": null
+                        },
+                        "outcome": "You transferred ${amount} from your Spending account to your Retirement Savings account. You now have more money in your Retirement Savings at the cost of having less money for your spending"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Keep in Spending",
+                        "type": "dismiss",
+                        "outcome": "You kept the money in your spending account. You have more money to spend but you have less money in your Retirement Savings"
+                    }
+                ]
+            }
+        ]
+    }
+]

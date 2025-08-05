@@ -1,0 +1,15 @@
+{
+  "originHash" : "65b1b66d16a8d05d334b1c180c062c229c5018cf85733cc99d09f69579917d65",
+  "pins" : [
+    {
+      "identity" : "confetti-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ottijp/confetti-swiftui",
+      "state" : {
+        "revision" : "fe1c8e8e3d45aa677fb9f579664ba99b643569a9",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}

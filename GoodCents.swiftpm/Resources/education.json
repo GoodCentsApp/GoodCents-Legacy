@@ -1,0 +1,1070 @@
+[
+    {
+        "id": 1,
+        "title": "Money 101 - Back to the basics",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Back to the basics",
+                "description": "In this lesson we go right back to the start. What even is Money?",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1: What is Money?",
+                        "content": "Money is a tool that people use to exchange value. Thousands of years ago, people traded goods directly—this was called bartering. For example, someone might trade a basket of apples for a loaf of bread. Over time, societies created money to make trading easier. It acts as a 'middleman' in trades, so you don’t need to find someone who wants exactly what you’re offering."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2: The Forms of Money",
+                        "content": "Money comes in many forms. It can be coins, paper bills, or even digital numbers in a bank account. Today, you might use a debit card, mobile payment apps, or even cryptocurrency. But all these forms of money share one thing in common: they represent value that people agree on."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3: Why Money Matters",
+                        "content": "Money matters because it helps us get the things we need and want. It allows people to save for the future, trade with others, and measure the value of their work. Understanding how money works is the first step to managing it wisely!"
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is the primary purpose of money?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "To make trading easier by acting as a 'middleman'.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "To store all your valuables.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "To replace bartering completely.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "Which of these is NOT a form of money?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Paper bills",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Coins",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "A basket of apples",
+                                "isCorrect": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "Why is money important?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "It helps people get the things they need and want.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "It replaces the need for work.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "It only matters in digital form.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Earning Money",
+                "description": "Explore the different ways people earn money and how to value your time.",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1: Allowances",
+                        "content": "Allowances are often the first way young people start earning money. Parents or guardians might give a weekly or monthly allowance in exchange for completing household chores, such as cleaning your room, taking out the trash, or doing the dishes. Allowances teach the basics of earning money and help build a habit of working for rewards. While the amount might seem small, learning to save and spend wisely starts here. Think of it as your first 'income' and an opportunity to practice managing money."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2: Part-Time Jobs",
+                        "content": "Part-time jobs are a great next step for earning money. Jobs like babysitting, mowing lawns, walking dogs, or working at a local store not only provide income but also teach responsibility and time management. They help you understand the value of hard work and give you experience interacting with people, which is valuable in any career. Even a few hours of work each week can add up, giving you more freedom to save for something special or cover your own expenses."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3: Freelancing and Valuing Your Time",
+                        "content": "Freelancing is a flexible way to earn money by using your unique skills. For example, you could design graphics, tutor younger students, or create content for social media. Freelancing allows you to set your own schedule and rates, but it also requires discipline and planning. To succeed, you need to figure out how much your time is worth. Start by thinking about how long a task takes and what others charge for similar work. Remember, your time is valuable—don't undersell yourself!"
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is one common way young people start earning money?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Through allowances for chores or expectations.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "By winning the lottery.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "By borrowing from friends.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "What is a benefit of part-time jobs?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "They teach responsibility and provide experience.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "They are always easy and fun.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "They guarantee you’ll become rich.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "What is an important consideration when freelancing?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Knowing how much your time is worth.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Always working for free to gain experience.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Taking on as many jobs as possible without planning.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },            
+            {
+                "id": 3,
+                "title": "Spending Wisely",
+                "description": "Learn how to make smart decisions when it comes to spending money.",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1: Needs vs. Wants",
+                        "content": "One of the first steps to spending wisely is understanding the difference between needs and wants. Needs are things you must have to live, like food, shelter, and clothing. Wants are things you would like to have but can live without, like the latest video game or a fancy coffee. When deciding how to spend your money, ask yourself: 'Do I really need this, or is it just something I want?' Learning to prioritize needs over wants can help you save for more important things."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2: Budgeting Basics",
+                        "content": "A budget is a plan for how you’ll spend your money. Start by listing your income and expenses. Divide your money into categories like needs, savings, and fun. A popular rule is the 50/30/20 rule: 50% for needs, 30% for wants, and 20% for savings. Sticking to a budget can help you avoid overspending and ensure you have money for what truly matters."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3: Making Informed Purchases",
+                        "content": "Before buying something, take a moment to think about whether it’s worth the cost. Compare prices, read reviews, and ask yourself if you’ll still want or use the item in a month. Impulse buying—purchasing something without thinking—can quickly drain your money. Being thoughtful about your purchases helps you get the most value out of your money."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is an example of a 'need'?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Food or shelter.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "A new video game.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Designer clothing.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "What is the 50/30/20 rule?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "50% for needs, 30% for wants, 20% for savings.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "50% for savings, 30% for needs, 20% for fun.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "50% for wants, 30% for fun, 20% for needs.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "What is a good habit to avoid impulse buying?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Compare prices and think before purchasing.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Buy things as soon as you see them.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Only shop online to avoid thinking about the cost.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            }            
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Managing Money 101 - How to save and budget",
+        "lessons": [
+            {
+                "id": 4,
+                "title": "Basics of Saving",
+                "description": "Learn the fundamentals of saving money and building financial security.",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Saving money is crucial for financial stability. Start by setting aside a portion of every paycheck, even if it's small. An emergency fund covering 3-6 months of expenses should be your first goal. This safety net protects against unexpected costs like medical bills or car repairs, helping you avoid debt when life surprises you."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Automate savings through direct deposits or bank transfers. Consider the 'pay yourself first' method - treat savings like a mandatory bill. High-yield savings accounts help money grow through compound interest. Separate accounts for different goals (emergency fund, vacation, down payment) make tracking progress easier and prevent accidental spending."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Stay committed by celebrating milestones ($500 saved, 1 month emergency fund). Review expenses monthly to find new savings opportunities. Avoid impulse purchases by implementing a 24-hour waiting period for non-essential buys. Remember: consistent small savings add up significantly over time through the power of compound growth."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is the primary purpose of an emergency fund?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "To cover unexpected expenses without going into debt",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "To invest in the stock market",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "To fund luxury purchases",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "What does the 'pay yourself first' method mean?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Treating savings as a mandatory expense",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Paying all bills before saving",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Spending money on self-care first",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "How can you stay committed to saving?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Celebrate milestones and review expenses regularly",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Never check your savings balance",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Use all savings for impulse purchases",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "How to Budget",
+                "description": "Manage your money better by budgeting! Let's learn how to do it.",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Budgeting helps you manage money effectively, ensuring you allocate funds wisely. A common method is the 50/30/20 rule: 50% of income covers needs like housing and food, 30% goes to wants like entertainment, and 20% is set aside for savings or debt repayment. This approach encourages responsible spending and long-term financial security while preventing overspending."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Start by listing income sources, such as salary or freelance work, then track fixed expenses like rent, groceries, and utilities. Subtract these from total income to find discretionary funds. Allocate these based on goals, ensuring essentials are covered first. Using budgeting apps or tracking tools can help manage finances efficiently and prevent unnecessary overspending."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Budgets should adapt to life changes. Regularly review spending habits and adjust as needed. If income rises, increase savings. If unexpected expenses occur, reassess priorities. A well-maintained budget provides financial security, reducing stress and helping achieve long-term goals. Tracking progress ensures you stay on course and make informed financial decisions over time."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What percentage of income does the 50/30/20 rule suggest for savings?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "20%",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "30%",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "50%",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "What is the first step in creating a budget?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "List all sources of income and fixed expenses",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Spend money on entertainment first",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Ignore tracking expenses",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "Why is it important to review your budget regularly?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "To ensure it aligns with changing financial goals",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Because budgets expire after a month",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "To stop saving money",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },            
+            {
+                "id": 6,
+                "title": "Setting Goals",
+                "description": "Let's learn how to make SMART financial goals and stay motivated to achieve them!",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Setting financial goals helps you manage your money effectively by giving purpose to your savings and spending. The SMART method ensures success: goals must be Specific, Measurable, Achievable, Relevant, and Time-bound. Defining clear objectives makes it easier to track progress and stay focused, ultimately bringing your financial dreams within reach."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Financial goals are best divided into short-, medium-, and long-term categories. Short-term goals might include building an emergency fund or paying off a small debt. Medium-term goals could be saving for a vacation or buying a car. Long-term goals often involve bigger milestones like purchasing a home or planning for retirement. Breaking goals down makes them less overwhelming and more achievable."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Stay motivated by tracking progress and celebrating milestones. Use tools like budgeting apps, visual trackers, or journals to keep your goals visible. Regularly review your progress and adjust plans if necessary. Rewarding yourself for reaching milestones, such as paying off a debt or saving a set amount, helps sustain motivation and reinforces positive financial habits."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What does SMART stand for in goal setting?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Specific, Measurable, Achievable, Relevant, Time-bound.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Simple, Measurable, Active, Realistic, Timely.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Strategic, Manageable, Accurate, Reliable, Tested.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "Which category would saving for retirement typically fall under?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Short-term goals.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Medium-term goals.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Long-term goals.",
+                                "isCorrect": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "How can you stay motivated to achieve financial goals?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Track progress, use visual tools, and celebrate milestones.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Set goals and never review them.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Focus only on long-term goals and ignore short-term wins.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            }            
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Banking 101 - What is a bank??",
+        "lessons": [
+            {
+                "id": 7,
+                "title": "What is a Bank?",
+                "description": "Banks? Accounts? What are they? How do they work? Let's find out!",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Banks are institutions that manage money and provide financial services. They offer secure storage for funds, facilitate transactions, and provide loans. By supporting savings and investments, banks promote economic stability. They also connect savers and borrowers, ensuring money circulates efficiently in the economy."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Two main bank accounts are checking and savings accounts. Checking accounts are ideal for daily expenses, offering easy access to your funds for bills or shopping. Savings accounts, in contrast, are designed for storing money long-term while earning interest, helping your savings grow over time."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Banks generate income by lending deposits at higher interest rates than they pay to savers. This process allows banks to offer services while profiting from the difference. By understanding their functions, you can make informed decisions about which banking services suit your financial goals."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is the primary purpose of a savings account?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Daily transactions.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Earning interest on stored funds.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Paying bills.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "How do banks generate income?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "By storing money securely.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "By lending money at higher interest rates than they pay.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 3,
+                                "answer": "By charging fees for opening accounts.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "Which account is best for daily transactions?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Savings account.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Checking account.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Loan account.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Using a Bank Account",
+                "description": "Let's learn how to manage a bank account!",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Bank accounts are essential tools for managing money. Deposits add funds to your account, while withdrawals allow you to access those funds. Balancing these transactions ensures financial stability. Tracking your account activity helps you understand spending habits, avoid overdrafts, and plan for future expenses effectively."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Debit cards are linked to your bank account, enabling direct access to your money for purchases or ATM withdrawals. Online banking adds convenience, letting you check balances, transfer funds, and pay bills from anywhere. These tools simplify account management and keep you in control of your finances."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Protecting your account is crucial. Use strong, unique passwords and enable two-factor authentication when available. Monitor your account activity regularly to detect unauthorized transactions early. If you notice suspicious activity, report it immediately to your bank to prevent potential financial losses or identity theft."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is one benefit of online banking?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Earning higher interest rates.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Accessing your account anytime, anywhere.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Getting free money from the bank.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "How can you protect your bank account?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Use strong passwords and monitor activity regularly.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Share your account details with trusted friends.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Ignore your account activity until there's an issue.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "What is the purpose of a debit card?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "To borrow money from the bank.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "To access your account funds directly.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 3,
+                                "answer": "To earn rewards without spending money.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },            
+            {
+                "id": 9,
+                "title": "Interest and Fees",
+                "description": "Learn how interest works and how to avoid unnecessary banking fees.",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Interest can benefit you when earned on savings or investments, as it grows your money over time. However, it can be costly when applied to loans or credit card balances. Understanding how interest rates are calculated and the terms involved helps you make smarter financial choices and avoid unnecessary expenses."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Banks often charge fees for services like account maintenance, overdrafts, or out-of-network ATM usage. These charges can add up quickly. Reviewing your account terms, using in-network ATMs, and maintaining a minimum balance are effective ways to reduce fees and save money on banking costs."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "To save money, compare banks to find accounts with minimal fees and attractive interest rates. Researching account features, such as free transactions or higher savings interest, can lead to better outcomes. Being proactive and staying informed ensures you get the most from your financial institution."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "How can you avoid overdraft fees?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "By maintaining enough funds in your account.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "By using out-of-network ATMs.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "By not reviewing your statements.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "How can interest benefit you?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "By growing your savings over time.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "By increasing the cost of loans.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "By adding more fees to your account.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "What is one way to minimize bank fees?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Use in-network ATMs and avoid overdrafts.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Ignore account terms and conditions.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Pay maintenance fees without question.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            }            
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Money Skills 101 - Let's get advanced!",
+        "lessons": [
+            {
+                "id": 10,
+                "title": "Credit and Loans",
+                "description": "What is credit? How do loans work? Let's find out!",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Credit lets you borrow money with the agreement to repay it later, often with interest. It's a useful tool for financing large expenses like homes, cars, or education. However, it requires responsible management to avoid debt. Borrowing within your means and understanding repayment terms are critical to using credit effectively."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Loans are formal agreements where a lender provides money that you pay back over time, typically with added interest. Loan types include personal, auto, and mortgages, each with unique terms. Interest rates and repayment periods vary, so comparing options helps you choose a loan that fits your needs and budget."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Good credit is built by paying bills on time, keeping credit card balances low, and limiting new account openings. A high credit score improves your chances of qualifying for loans with better interest rates. Monitoring your credit report helps you identify issues and maintain financial health."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is one way to maintain good credit?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Paying bills on time.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Opening multiple credit accounts at once.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Maxing out your credit cards.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "What is the primary cost of borrowing money?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Interest.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Application fees.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Monthly statements.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "How can you improve your credit score?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Pay bills on time and reduce debt.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Ignore credit card payments.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Open as many accounts as possible.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },            
+            {
+                "id": 11,
+                "title": "Investing Basics",
+                "description": "What is investing? And how can I do it? Let's find out!",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Investing means allocating money to assets like stocks, bonds, or real estate with the expectation of earning a return. It is a powerful way to grow wealth over time. Investments can increase in value or provide income, such as dividends or interest, making them essential for achieving financial goals like retirement."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Risk and reward are central to investing. Generally, higher potential returns come with greater risks. Diversifying your portfolio by spreading investments across various asset types can help limit losses. This strategy balances risk and reward, improving your chances of achieving stable, long-term financial growth."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Compound interest is a key factor in growing investments. It occurs when earnings from an investment are reinvested to generate additional returns. Starting early maximizes the benefits of compounding, as it has more time to work. Regular contributions further enhance the compounding effect and overall wealth growth."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What does diversification help with in investing?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Reducing risk.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Maximizing immediate returns.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Eliminating all losses.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "What is the key benefit of starting to invest early?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Maximizing compound interest over time.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Avoiding any risk in investments.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Guaranteeing immediate profits.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "What is one way to grow wealth through investing?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Investing in assets that generate returns.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Keeping all money in a savings account.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Avoiding financial planning.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            },            
+            {
+                "id": 12,
+                "title": "Protecting Your Money",
+                "description": "Learn how to avoid scams, understand insurance, and stay safe online.",
+                "pages": [
+                    {
+                        "id": 1,
+                        "title": "Page 1",
+                        "content": "Scammers often use deceptive methods to steal your money or personal data. Be cautious of unsolicited emails, phone calls, or offers that promise unrealistic rewards. Never share sensitive details like passwords or bank information unless you're certain of the recipient's legitimacy. Staying alert is your best defense."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Page 2",
+                        "content": "Insurance offers financial protection against unexpected losses. Common types include health, auto, life, and home insurance. Reviewing policies ensures they align with your needs and budget. Adequate coverage minimizes out-of-pocket expenses during emergencies, providing peace of mind and financial security."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Page 3",
+                        "content": "Online safety is vital for protecting your finances. Use strong passwords and enable two-factor authentication to secure your accounts. Avoid clicking on suspicious links or downloading unknown files. Regularly check account statements to detect unauthorized transactions early and address issues promptly."
+                    }
+                ],
+                "questions": [
+                    {
+                        "id": 1,
+                        "question": "What is a common online safety tip?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Clicking on suspicious links.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Using strong passwords and two-factor authentication.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Sharing personal information online freely.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "question": "Why is having insurance important?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "It provides financial protection during unexpected events.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "It guarantees profit from investments.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "It eliminates all financial risks.",
+                                "isCorrect": false
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "question": "What is one way to identify a potential scam?",
+                        "answers": [
+                            {
+                                "id": 1,
+                                "answer": "Receiving unsolicited messages or unrealistic offers.",
+                                "isCorrect": true
+                            },
+                            {
+                                "id": 2,
+                                "answer": "Dealing only with verified institutions.",
+                                "isCorrect": false
+                            },
+                            {
+                                "id": 3,
+                                "answer": "Avoiding financial advice.",
+                                "isCorrect": false
+                            }
+                        ]
+                    }
+                ]
+            }            
+        ]
+    }
+]
